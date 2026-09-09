@@ -106,6 +106,6 @@ Open **http://localhost:5173** in your browser.
 ## 🔑 Demo Account Credentials
 - **Email:** `anusha@example.com`
 - **Password:** `password123`
-*(Or click the "Autofill Demo Account" button on the login screen, or create your own account via Register)*
+(Or click the "Autofill Demo Account" button on the login screen, or create your own account via Register)*
 
 
