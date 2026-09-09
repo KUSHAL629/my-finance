@@ -108,15 +108,4 @@ Open **http://localhost:5173** in your browser.
 - **Password:** `password123`
 *(Or click the "Autofill Demo Account" button on the login screen, or create your own account via Register)*
 
----
 
-## 📜 Available Scripts
-
-### Backend (`/backend`):
-- `npm start`: Start Express server with Node.
-- `npm run dev`: Start server with `--watch` mode.
-
-### Frontend (`/frontend`):
-- `npm run dev`: Start Vite development server on `http://localhost:5173`.
-- `npm run build`: Compile production bundle to `/dist`.
-- `npm run preview`: Preview production build locally.
